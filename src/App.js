@@ -158,7 +158,7 @@ class App extends Component {
         {
           id: 4,
           question: 'A primeira viagem juntos foi para ?',
-          options: ['Chapada dos Veadeiros', 'Cabo Frio', 'Recife'],
+          options: ['Cabo Frio', 'Chapada dos Veadeiros', 'Recife'],
           answer: 'Cabo Frio'
         },
         {
