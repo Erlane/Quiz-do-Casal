@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.2f836c31.chunk.js",
-    "main.js.map": "/static/js/main.2f836c31.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ed406a4e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ed406a4e.js.map",
-    "static/js/2.da3f28d7.chunk.js": "/static/js/2.da3f28d7.chunk.js",
-    "static/js/2.da3f28d7.chunk.js.map": "/static/js/2.da3f28d7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.23ef843fa5a0eb4d0af3e4fd278978a6.js": "/precache-manifest.23ef843fa5a0eb4d0af3e4fd278978a6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.da3f28d7.chunk.js.LICENSE.txt": "/static/js/2.da3f28d7.chunk.js.LICENSE.txt",
-    "static/media/heart.png": "/static/media/heart.bd7c134f.png"
+    "main.js": "/Quiz-do-Casal/static/js/main.2eb33dad.chunk.js",
+    "main.js.map": "/Quiz-do-Casal/static/js/main.2eb33dad.chunk.js.map",
+    "runtime-main.js": "/Quiz-do-Casal/static/js/runtime-main.0f8bba8d.js",
+    "runtime-main.js.map": "/Quiz-do-Casal/static/js/runtime-main.0f8bba8d.js.map",
+    "static/js/2.06442245.chunk.js": "/Quiz-do-Casal/static/js/2.06442245.chunk.js",
+    "static/js/2.06442245.chunk.js.map": "/Quiz-do-Casal/static/js/2.06442245.chunk.js.map",
+    "index.html": "/Quiz-do-Casal/index.html",
+    "precache-manifest.75214d5dab910fa933291283799cafe5.js": "/Quiz-do-Casal/precache-manifest.75214d5dab910fa933291283799cafe5.js",
+    "service-worker.js": "/Quiz-do-Casal/service-worker.js",
+    "static/js/2.06442245.chunk.js.LICENSE.txt": "/Quiz-do-Casal/static/js/2.06442245.chunk.js.LICENSE.txt",
+    "static/media/heart.png": "/Quiz-do-Casal/static/media/heart.bd7c134f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed406a4e.js",
-    "static/js/2.da3f28d7.chunk.js",
-    "static/js/main.2f836c31.chunk.js"
+    "static/js/runtime-main.0f8bba8d.js",
+    "static/js/2.06442245.chunk.js",
+    "static/js/main.2eb33dad.chunk.js"
   ]
 }
